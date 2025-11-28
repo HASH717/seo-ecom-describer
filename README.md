@@ -248,7 +248,7 @@ jobs:
 ```
 MIT License
 
-Copyright (c) 2025
+Copyright (c) 2025 HASH717
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 ... (standard MIT text)
