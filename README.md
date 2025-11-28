@@ -248,7 +248,7 @@ jobs:
 ```
 MIT License
 
-Copyright (c) YEAR Your Name
+Copyright (c) 2025
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 ... (standard MIT text)
