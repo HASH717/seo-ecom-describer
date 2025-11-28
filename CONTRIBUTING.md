@@ -1,0 +1,4 @@
+- Fork the repo
+- Open a branch
+- Add tests
+- Open a PR
