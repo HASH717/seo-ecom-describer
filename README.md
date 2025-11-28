@@ -321,8 +321,4 @@ gh repo create yourusername/seo-ecom-describer --public --source=. --push
 
 ## CONTRIBUTORS
 
-Add yourself!
-
----
-
-*End of scaffold.*
+HASH717
